@@ -1,1 +1,1 @@
-# scotch-data
+# scotch-data-grch37
